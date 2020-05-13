@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\Teste_AspNetCore\\Teste_AspNetCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\BLL\\BLL.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\DAL\\DAL.csproj"
+              },
+              "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\MODEL\\MODEL.csproj": {
+                "projectPath": "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\MODEL\\MODEL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\DAL\\DAL.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {
+              "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\MODEL\\MODEL.csproj": {
+                "projectPath": "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\MODEL\\MODEL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\MODEL\\MODEL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\MODEL\\MODEL.csproj",
+        "projectName": "MODEL",
+        "projectPath": "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\MODEL\\MODEL.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\Teste_AspNetCore\\Teste_AspNetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\Teste_AspNetCore\\Teste_AspNetCore.csproj",
+        "projectName": "Teste_AspNetCore",
+        "projectPath": "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\Teste_AspNetCore\\Teste_AspNetCore.csproj",
+        "packagesPath": "C:\\Users\\Servidor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\Teste_AspNetCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Servidor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\BLL\\BLL.csproj"
+              },
+              "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\MODEL\\MODEL.csproj": {
+                "projectPath": "C:\\Users\\Servidor\\source\\repos\\Teste_AspNetCore\\MODEL\\MODEL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

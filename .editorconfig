@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0043: Cadeia de formato inválida
+dotnet_diagnostic.IDE0043.severity = none

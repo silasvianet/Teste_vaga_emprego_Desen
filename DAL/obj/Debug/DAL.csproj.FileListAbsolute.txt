@@ -1,0 +1,8 @@
+C:\Users\Servidor\source\repos\Teste_AspNetCore\DAL\bin\Debug\DAL.dll
+C:\Users\Servidor\source\repos\Teste_AspNetCore\DAL\bin\Debug\DAL.pdb
+C:\Users\Servidor\source\repos\Teste_AspNetCore\DAL\bin\Debug\MODEL.dll
+C:\Users\Servidor\source\repos\Teste_AspNetCore\DAL\bin\Debug\MODEL.pdb
+C:\Users\Servidor\source\repos\Teste_AspNetCore\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Servidor\source\repos\Teste_AspNetCore\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Servidor\source\repos\Teste_AspNetCore\DAL\obj\Debug\DAL.dll
+C:\Users\Servidor\source\repos\Teste_AspNetCore\DAL\obj\Debug\DAL.pdb

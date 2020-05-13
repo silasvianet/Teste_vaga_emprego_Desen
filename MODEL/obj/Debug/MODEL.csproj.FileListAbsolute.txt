@@ -1,0 +1,5 @@
+C:\Users\Servidor\source\repos\Teste_AspNetCore\MODEL\bin\Debug\MODEL.dll
+C:\Users\Servidor\source\repos\Teste_AspNetCore\MODEL\bin\Debug\MODEL.pdb
+C:\Users\Servidor\source\repos\Teste_AspNetCore\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\Servidor\source\repos\Teste_AspNetCore\MODEL\obj\Debug\MODEL.dll
+C:\Users\Servidor\source\repos\Teste_AspNetCore\MODEL\obj\Debug\MODEL.pdb
